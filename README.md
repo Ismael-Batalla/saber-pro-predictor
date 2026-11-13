@@ -43,7 +43,7 @@ Desarrollar un sistema basado en técnicas de Machine Learning que permita anali
 | Google Colab | Experimentación y análisis de datos |
 
 
-## 📂 Estructura del proyecto
+##  Estructura del proyecto
 
 ```text
 saber-pro-predictor/
@@ -57,7 +57,7 @@ saber-pro-predictor/
 └── README.md
 ```
 
-## 🚀 Instalación y ejecución
+##  Instalación y ejecución
 
 ### 1. Clonar el repositorio
 
@@ -131,7 +131,7 @@ El sistema tiene fines académicos, experimentales y de apoyo al análisis de da
 
 **Ismael Batalla**,
 **Jonatan Arrieta**,
-,**Jesus Carrillo** **Y**
+**Jesus Carrillo** **Y**
 **Jorge Daza**
 
 Ingeniería de Sistemas
