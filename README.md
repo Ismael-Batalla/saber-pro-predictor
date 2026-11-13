@@ -129,9 +129,9 @@ El sistema tiene fines académicos, experimentales y de apoyo al análisis de da
 
 ##  Autores
 
-**Ismael Batalla**
-**Jonatan Arrieta**
-**Jesus Carrillo**
+**Ismael Batalla**,
+**Jonatan Arrieta**,
+,**Jesus Carrillo** **Y**
 **Jorge Daza**
 
 Ingeniería de Sistemas
